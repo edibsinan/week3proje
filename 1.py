@@ -1,1 +1,1 @@
-jgbhvhjhj
+print("jgbhvhjhj")
